@@ -1,1 +1,1 @@
-# SungNam_project
+# Skin_Analyser
